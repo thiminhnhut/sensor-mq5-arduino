@@ -12,5 +12,5 @@ MQ5Sensor	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-getGas      KEYWORD2
-isDetect    KEYWORD2
+getGas	KEYWORD2
+isDetect	KEYWORD2
